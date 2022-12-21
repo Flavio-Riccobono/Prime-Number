@@ -1,6 +1,6 @@
 import math
 def prime(n):
-""" This function return True if the number is prime else return False """
+    """ This function return True if the number is prime else return False """
     flag = True
 
     if n == 0 or n == 1 :
